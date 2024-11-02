@@ -7,7 +7,6 @@ A simple number guessing game implemented in Python. The game generates a random
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **Random Number Generation**: Each game generates a unique random number.
