@@ -45,4 +45,17 @@ python gui_version.py
 
 ## Project Structure
 ```bash
-Number_Guessing_Game
+Number-Guessing-Game/
+│
+├── main.py                 # Console version of the game
+├── gui_version.py          # GUI version (optional)
+├── README.md               # Project documentation
+├── requirements.txt        # List of dependencies (Tkinter/PyQt if using GUI)
+└── assets/
+```
+
+## Contributing
+
+**Contributions are welcome! Please open an issue or submit a pull request for any suggestions or improvements.**
+
+
