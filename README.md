@@ -30,7 +30,7 @@ A simple number guessing game implemented in Python. The game generates a random
 
 **To Start the game, run the following command:**
 ```bash
-python main.py
+python Number_Guessing_Game.py
 ```
 **Game Instruction:**
 - A random number will be generated within the specified range.
