@@ -33,9 +33,9 @@ A simple number guessing game implemented in Python. The game generates a random
 python main.py
 ```
 **Game Instruction:**
-- **A random number will be generated within the specified range.
-- **Enter your guesses, and the game will give hints if the guess is too high or too low.
-- **The game will track your attempts and congratulate you once you guess correctly.
+- A random number will be generated within the specified range.
+- Enter your guesses, and the game will give hints if the guess is too high or too low.
+- The game will track your attempts and congratulate you once you guess correctly.
 
 **If Using the GUI Version:**
 ```bash
